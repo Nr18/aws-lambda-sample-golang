@@ -1,6 +1,6 @@
 # AWS Lambda - Sample Golang
 
-This is my sample repository for deploying Golang AWS Lambda functions.
+This is my sample repository for deploying Golang AWS Lambda functions. For more information read my [blog](https://xebia.com/blog/using-golang-for-your-aws-lambda-functions/) post.
 
 ## Deploy the template
 
